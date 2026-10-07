@@ -1,3 +1,0 @@
-git add privacy.md termos.md
-git commit -m "Adiciona politica de privacidade e termos de servico"
-git push origin main
