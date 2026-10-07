@@ -6,5 +6,3 @@ git branch -M main
 git remote add origin https://github.com/stkh8i/stkh8i.github.io.git
 git push -u origin main
 
-
-<meta name="google-site-verification" content="3pRiohZQGLNBWp-iQU3jewQEs_1Nxodz5WnsVW1KfQI" />
