@@ -4,3 +4,5 @@ This is a personal-use application provided 'as is', without warranties of any k
 
 ## Contact
 https://github.com/stkh8i
+
+<meta name="google-site-verification" content="3pRiohZQGLNBWp-iQU3jewQEs_1Nxodz5WnsVW1KfQI" />
